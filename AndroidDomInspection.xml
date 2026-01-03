@@ -1,0 +1,602 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml</file>
+  <line>6</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml</file>
+  <line>9</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'MainActivity'</description>
+  <highlighted_element>MainActivity</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml</file>
+  <line>4</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '@android:color/white'</description>
+  <highlighted_element>@android:color/white</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml</file>
+  <line>4</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '?android:colorBackground'</description>
+  <highlighted_element>?android:colorBackground</highlighted_element>
+  <language>XML</language>
+  <offset>28</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>4</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '@android:style/Theme.Light.NoTitleBar'</description>
+  <highlighted_element>@android:style/Theme.Light.NoTitleBar</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>7</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>15</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '@android:style/Theme.Light.NoTitleBar'</description>
+  <highlighted_element>@android:style/Theme.Light.NoTitleBar</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml</file>
+  <line>16</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>4</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '@android:style/Theme.Black.NoTitleBar'</description>
+  <highlighted_element>@android:style/Theme.Black.NoTitleBar</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>7</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>15</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol '@android:style/Theme.Black.NoTitleBar'</description>
+  <highlighted_element>@android:style/Theme.Black.NoTitleBar</highlighted_element>
+  <language>XML</language>
+  <offset>38</offset>
+  <length>37</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml</file>
+  <line>16</line>
+  <module>whoboom_android</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'dev'</description>
+  <highlighted_element>dev</highlighted_element>
+  <language>XML</language>
+  <offset>22</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'fluttercommunity'</description>
+  <highlighted_element>fluttercommunity</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'plus'</description>
+  <highlighted_element>plus</highlighted_element>
+  <language>XML</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'share'</description>
+  <highlighted_element>share</highlighted_element>
+  <language>XML</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'ShareFileProvider'</description>
+  <highlighted_element>ShareFileProvider</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>17</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'SharePlusPendingIntent'</description>
+  <highlighted_element>SharePlusPendingIntent</highlighted_element>
+  <language>XML</language>
+  <offset>31</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'embedding'</description>
+  <highlighted_element>embedding</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'android'</description>
+  <highlighted_element>android</highlighted_element>
+  <language>XML</language>
+  <offset>47</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'FlutterActivity'</description>
+  <highlighted_element>FlutterActivity</highlighted_element>
+  <language>XML</language>
+  <offset>55</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'firebase'</description>
+  <highlighted_element>firebase</highlighted_element>
+  <language>XML</language>
+  <offset>42</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'components'</description>
+  <highlighted_element>components</highlighted_element>
+  <language>XML</language>
+  <offset>51</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'ComponentDiscoveryService'</description>
+  <highlighted_element>ComponentDiscoveryService</highlighted_element>
+  <language>XML</language>
+  <offset>62</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'MainActivity'</description>
+  <highlighted_element>MainActivity</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values/styles.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values/styles.xml</file>
+  <line>16</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values-night/styles.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values-night/styles.xml</file>
+  <line>16</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml</file>
+  <line>5</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'firebase'</description>
+  <highlighted_element>firebase</highlighted_element>
+  <language>XML</language>
+  <offset>42</offset>
+  <length>8</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml</file>
+  <line>5</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'components'</description>
+  <highlighted_element>components</highlighted_element>
+  <language>XML</language>
+  <offset>51</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml</file>
+  <line>5</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'ComponentDiscoveryService'</description>
+  <highlighted_element>ComponentDiscoveryService</highlighted_element>
+  <language>XML</language>
+  <offset>62</offset>
+  <length>25</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'MainActivity'</description>
+  <highlighted_element>MainActivity</highlighted_element>
+  <language>XML</language>
+  <offset>27</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values/styles.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values/styles.xml</file>
+  <line>16</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values-night/styles.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values-night/styles.xml</file>
+  <line>16</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/src/main/res/values-night/styles.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Cannot resolve symbol 'android:windowBackground'</description>
+  <highlighted_element>android:windowBackground</highlighted_element>
+  <language>XML</language>
+  <offset>20</offset>
+  <length>24</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'dev'</description>
+  <highlighted_element>dev</highlighted_element>
+  <language>XML</language>
+  <offset>22</offset>
+  <length>3</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'fluttercommunity'</description>
+  <highlighted_element>fluttercommunity</highlighted_element>
+  <language>XML</language>
+  <offset>26</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'plus'</description>
+  <highlighted_element>plus</highlighted_element>
+  <language>XML</language>
+  <offset>43</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'share'</description>
+  <highlighted_element>share</highlighted_element>
+  <language>XML</language>
+  <offset>48</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'ShareFileProvider'</description>
+  <highlighted_element>ShareFileProvider</highlighted_element>
+  <language>XML</language>
+  <offset>54</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml</file>
+  <line>17</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/android/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'SharePlusPendingIntent'</description>
+  <highlighted_element>SharePlusPendingIntent</highlighted_element>
+  <language>XML</language>
+  <offset>31</offset>
+  <length>22</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>7</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class '{applicationName}'</description>
+  <highlighted_element>{applicationName}</highlighted_element>
+  <language>XML</language>
+  <offset>23</offset>
+  <length>17</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'embedding'</description>
+  <highlighted_element>embedding</highlighted_element>
+  <language>XML</language>
+  <offset>37</offset>
+  <length>9</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved package 'android'</description>
+  <highlighted_element>android</highlighted_element>
+  <language>XML</language>
+  <offset>47</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/src/main/AndroidManifest.xml" />
+  <problem_class id="AndroidDomInspection" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Android Resources Validation</problem_class>
+  <description>Unresolved class 'FlutterActivity'</description>
+  <highlighted_element>FlutterActivity</highlighted_element>
+  <language>XML</language>
+  <offset>55</offset>
+  <length>15</length>
+</problem>
+</problems>

@@ -1,0 +1,134 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/FIREBASE_ADMIN_SDK_INFO.md</file>
+  <line>137</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/FIREBASE_ADMIN_SDK_INFO.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Özellik | Client SDK (Flutter) | Admin SDK (Backend) | |---------|---------------------|----------...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>390</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/FIREBASE_CONSOLE_GUIDE.md</file>
+  <line>167</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/FIREBASE_CONSOLE_GUIDE.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Servis | Oluşturuldu mu? | Kurallar Ayarlandı mı? | Test Edildi mi? | |--------|-----------------|...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>232</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/IOS_SETUP_COMPLETE.md</file>
+  <line>51</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/IOS_SETUP_COMPLETE.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Platform | Durum | Yapılandırma | |----------|-------|--------------| | Android | ✅ Hazır | googl...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>319</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>17</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Shared content | Android | iOS | macOS | Web | Linux | Windows | | :------------: | :-----: | :-: ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>323</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>19</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Text</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>20</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>URI</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>21</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Files</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>17</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Table is not correctly formatted</description>
+  <highlighted_element>| Shared content | Android | iOS | macOS | Web | Linux | Windows | | :------------: | :-----: | :-: ...</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>323</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>19</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Text</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>20</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>URI</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>21</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="MarkdownIncorrectTableFormatting" severity="WEAK WARNING" attribute_key="INFO_ATTRIBUTES">Incorrect table formatting</problem_class>
+  <description>Cell is not correctly formatted</description>
+  <highlighted_element>Files</highlighted_element>
+  <language>Markdown</language>
+  <offset>1</offset>
+  <length>16</length>
+</problem>
+</problems>

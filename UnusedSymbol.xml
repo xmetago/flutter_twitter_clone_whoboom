@@ -1,0 +1,15 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/android/app/src/main/kotlin/com/company/whoboom/MainActivity.kt</file>
+  <line>5</line>
+  <module>whoboom_android</module>
+  <package>com.company.whoboom</package>
+  <entry_point TYPE="class" FQNAME="com.company.whoboom.MainActivity" />
+  <problem_class id="UnusedSymbol" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unused symbol</problem_class>
+  <description>Class &quot;MainActivity&quot; is never used</description>
+  <highlighted_element>MainActivity</highlighted_element>
+  <language>kotlin</language>
+  <offset>6</offset>
+  <length>12</length>
+</problem>
+</problems>

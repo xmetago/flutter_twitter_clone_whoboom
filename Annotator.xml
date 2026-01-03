@@ -1,0 +1,847 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>56</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'ShareParams' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>75</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>75</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>96</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>96</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>114</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>114</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>132</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'downloadFallbackEnab...' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>154</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>171</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>193</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'title' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>206</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'subject' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>219</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'excludedCupertinoAct...' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>276</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'builder' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>8</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>313</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>')', &lt;record type field&gt; or '{' expected, got '&quot;' #loc</description>
+  <highlighted_element>&quot;</highlighted_element>
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>315</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'Share' unexpected #loc</description>
+  <highlighted_element>Share</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>325</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'ShareParams' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/build.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/settings.gradle</file>
+  <line>3</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/settings.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>29</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md</file>
+  <line>47</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'url' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>19</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md</file>
+  <line>63</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'credential' unexpected #loc</description>
+  <highlighted_element>c</highlighted_element>
+  <language>Markdown</language>
+  <offset>49</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md</file>
+  <line>73</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'app' #loc</description>
+  <highlighted_element>a</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md</file>
+  <line>83</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>')', &lt;record type field&gt; or '{' expected, got ''' #loc</description>
+  <highlighted_element>'</highlighted_element>
+  <language>Markdown</language>
+  <offset>23</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md</file>
+  <line>86</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/CHANGELOG.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'await' unexpected #loc</description>
+  <highlighted_element>await</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/build.gradle</file>
+  <line>22</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'GradleException' #loc</description>
+  <highlighted_element>GradleException</highlighted_element>
+  <language>Groovy</language>
+  <offset>14</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/build.gradle</file>
+  <line>24</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'GradleException' #loc</description>
+  <highlighted_element>GradleException</highlighted_element>
+  <language>Groovy</language>
+  <offset>14</offset>
+  <length>15</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>1</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Matcher' #loc</description>
+  <highlighted_element>Matcher</highlighted_element>
+  <language>Groovy</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>2</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Pattern' #loc</description>
+  <highlighted_element>Pattern</highlighted_element>
+  <language>Groovy</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>5</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'File' #loc</description>
+  <highlighted_element>File</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'File' #loc</description>
+  <highlighted_element>File</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>9</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Matcher' #loc</description>
+  <highlighted_element>Matcher</highlighted_element>
+  <language>Groovy</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/build.gradle</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/app/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/settings.gradle</file>
+  <line>3</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/android/settings.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>29</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>1</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Matcher' #loc</description>
+  <highlighted_element>Matcher</highlighted_element>
+  <language>Groovy</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>2</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Pattern' #loc</description>
+  <highlighted_element>Pattern</highlighted_element>
+  <language>Groovy</language>
+  <offset>23</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>4</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>5</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'File' #loc</description>
+  <highlighted_element>File</highlighted_element>
+  <language>Groovy</language>
+  <offset>0</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'File' #loc</description>
+  <highlighted_element>File</highlighted_element>
+  <language>Groovy</language>
+  <offset>19</offset>
+  <length>4</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>9</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'String' #loc</description>
+  <highlighted_element>String</highlighted_element>
+  <language>Groovy</language>
+  <offset>4</offset>
+  <length>6</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle</file>
+  <line>11</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/android/user-agent.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Matcher' #loc</description>
+  <highlighted_element>Matcher</highlighted_element>
+  <language>Groovy</language>
+  <offset>4</offset>
+  <length>7</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/build.gradle</file>
+  <line>12</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/app/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/settings.gradle</file>
+  <line>3</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/android/settings.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>29</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>56</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'ShareParams' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>75</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>75</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>96</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>96</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>114</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>',' or ';' expected, got 'SharePlus' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>20</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>114</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>46</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>132</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'downloadFallbackEnab...' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>154</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>171</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'params' unexpected #loc</description>
+  <highlighted_element>p</highlighted_element>
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>193</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'title' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>206</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'subject' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>219</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'excludedCupertinoAct...' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>276</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'builder' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>8</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>313</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>')', &lt;record type field&gt; or '{' expected, got '&quot;' #loc</description>
+  <highlighted_element>&quot;</highlighted_element>
+  <language>Markdown</language>
+  <offset>12</offset>
+  <length>1</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>315</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'Share' unexpected #loc</description>
+  <highlighted_element>Share</highlighted_element>
+  <language>Markdown</language>
+  <offset>0</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md</file>
+  <line>325</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/README.md" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>'@', IDENTIFIER or void expected, got 'ShareParams' #loc</description>
+  <highlighted_element />
+  <language>Markdown</language>
+  <offset>25</offset>
+  <length>0</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/build.gradle</file>
+  <line>6</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/app/build.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>26</offset>
+  <length>10</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/settings.gradle</file>
+  <line>3</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/android/settings.gradle" />
+  <problem_class id="Annotator" severity="ERROR" attribute_key="WRONG_REFERENCES_ATTRIBUTES">Annotator</problem_class>
+  <hints />
+  <description>Cannot resolve symbol 'Properties' #loc</description>
+  <highlighted_element>Properties</highlighted_element>
+  <language>Groovy</language>
+  <offset>29</offset>
+  <length>10</length>
+</problem>
+</problems>

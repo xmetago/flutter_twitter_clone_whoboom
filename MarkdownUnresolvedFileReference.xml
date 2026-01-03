@@ -1,0 +1,26 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/README.md</file>
+  <line>42</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve file 'config.dart'</description>
+  <highlighted_element>config.dart</highlighted_element>
+  <language>Markdown</language>
+  <offset>125</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/README.md</file>
+  <line>53</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/README.md" />
+  <problem_class id="MarkdownUnresolvedFileReference" severity="WARNING" attribute_key="INFO_ATTRIBUTES">Unresolved file references</problem_class>
+  <description>Cannot resolve file 'config.dart'</description>
+  <highlighted_element>config.dart</highlighted_element>
+  <language>Markdown</language>
+  <offset>72</offset>
+  <length>11</length>
+</problem>
+</problems>

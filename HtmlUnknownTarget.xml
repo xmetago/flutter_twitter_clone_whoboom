@@ -1,0 +1,158 @@
+<problems>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>24</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'icons'</description>
+  <highlighted_element>icons</highlighted_element>
+  <language>HTML</language>
+  <offset>37</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>24</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'Icon-192.png'</description>
+  <highlighted_element>Icon-192.png</highlighted_element>
+  <language>HTML</language>
+  <offset>43</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>27</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'favicon.png'</description>
+  <highlighted_element>favicon.png</highlighted_element>
+  <language>HTML</language>
+  <offset>42</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>30</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'manifest.json'</description>
+  <highlighted_element>manifest.json</highlighted_element>
+  <language>HTML</language>
+  <offset>29</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>33</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/linux/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'flutter_bootstrap.js'</description>
+  <highlighted_element>flutter_bootstrap.js</highlighted_element>
+  <language>HTML</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/web/index.html</file>
+  <line>36</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'flutter_bootstrap.js'</description>
+  <highlighted_element>flutter_bootstrap.js</highlighted_element>
+  <language>HTML</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/web/index.html</file>
+  <line>36</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'flutter_bootstrap.js'</description>
+  <highlighted_element>flutter_bootstrap.js</highlighted_element>
+  <language>HTML</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/web/index.html</file>
+  <line>36</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/firebase_core/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'flutter_bootstrap.js'</description>
+  <highlighted_element>flutter_bootstrap.js</highlighted_element>
+  <language>HTML</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>24</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve directory 'icons'</description>
+  <highlighted_element>icons</highlighted_element>
+  <language>HTML</language>
+  <offset>37</offset>
+  <length>5</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>24</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'Icon-192.png'</description>
+  <highlighted_element>Icon-192.png</highlighted_element>
+  <language>HTML</language>
+  <offset>43</offset>
+  <length>12</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>27</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'favicon.png'</description>
+  <highlighted_element>favicon.png</highlighted_element>
+  <language>HTML</language>
+  <offset>42</offset>
+  <length>11</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>30</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'manifest.json'</description>
+  <highlighted_element>manifest.json</highlighted_element>
+  <language>HTML</language>
+  <offset>29</offset>
+  <length>13</length>
+</problem>
+<problem>
+  <file>file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html</file>
+  <line>33</line>
+  <module>whoboom</module>
+  <entry_point TYPE="file" FQNAME="file://$PROJECT_DIR$/windows/flutter/ephemeral/.plugin_symlinks/share_plus/example/web/index.html" />
+  <problem_class id="HtmlUnknownTarget" severity="WARNING" attribute_key="WARNING_ATTRIBUTES">Unresolved file in a link</problem_class>
+  <description>Cannot resolve file 'flutter_bootstrap.js'</description>
+  <highlighted_element>flutter_bootstrap.js</highlighted_element>
+  <language>HTML</language>
+  <offset>15</offset>
+  <length>20</length>
+</problem>
+</problems>
